@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ramesh244//github.io//git303034.git/static/css/main.756af292.css",
-    "main.js": "/Ramesh244//github.io//git303034.git/static/js/main.252cacdc.js",
-    "static/js/787.b3e4e704.chunk.js": "/Ramesh244//github.io//git303034.git/static/js/787.b3e4e704.chunk.js",
-    "index.html": "/Ramesh244//github.io//git303034.git/index.html",
-    "main.756af292.css.map": "/Ramesh244//github.io//git303034.git/static/css/main.756af292.css.map",
-    "main.252cacdc.js.map": "/Ramesh244//github.io//git303034.git/static/js/main.252cacdc.js.map",
-    "787.b3e4e704.chunk.js.map": "/Ramesh244//github.io//git303034.git/static/js/787.b3e4e704.chunk.js.map"
+    "main.css": "/git303034/static/css/main.756af292.css",
+    "main.js": "/git303034/static/js/main.eca2595f.js",
+    "static/js/787.b3e4e704.chunk.js": "/git303034/static/js/787.b3e4e704.chunk.js",
+    "index.html": "/git303034/index.html",
+    "main.756af292.css.map": "/git303034/static/css/main.756af292.css.map",
+    "main.eca2595f.js.map": "/git303034/static/js/main.eca2595f.js.map",
+    "787.b3e4e704.chunk.js.map": "/git303034/static/js/787.b3e4e704.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
-    "static/js/main.252cacdc.js"
+    "static/js/main.eca2595f.js"
   ]
 }
